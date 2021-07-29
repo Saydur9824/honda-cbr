@@ -1,0 +1,7 @@
+.size img{
+    width: 288px;
+    height: 243px;
+}
+.scale{
+    filter: grayscale(100%);
+}
